@@ -145,13 +145,6 @@ Remember, the future of audio is not just heard; it's shared and shaped by enthu
 For any queries or discussions regarding our kernel, feel free to open an issue in the kernel's repository, and we'll be more than happy to engage with you. Together, we're not just changing audio; we're making history!
 
 ## Technology Stack
-VoxArte Studio harnesses a collection of powerful libraries and frameworks to provide its audio processing capabilities:
-
-Great, thanks for providing the list of technologies used in VoxPulseSentinel. I'll add a revised "Technology Stack" section to the README which outlines these libraries and frameworks:
-
----
-
-## Technology Stack
 VoxPulseSentinel is built on a foundation of powerful libraries and frameworks, each contributing to its robust functionality:
 
 - **TensorFlow (2.13.0)**: A comprehensive open-source platform for machine learning, used for building and training the Densent model.
